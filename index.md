@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](https://i.imgur.com/AQBSyjo.png =270x270)
+<img src="https://i.imgur.com/AQBSyjo.png" width="270" height="270"/>
 
 ## [](#header-2)Education
 
@@ -12,7 +12,7 @@ layout: default
 - **October 2015 - July 2019**
   - **Bachelor’s degree in Computer Engineering**, _Faculty of Automatic Control and Computer Science_, _University POLITEHNICA of Bucharest_, Romania, Final Thesis grade 9.75 out of 10.
 
-## [](#header-2)Experience and Projects
+## [](#header-2)Experience
   - **Online shop**
 > I implemented a simple online shop in Java using some design patterns. The customers have all the functions that a real online shop provides, plus the option to get a suggestion about a product that they might like. It is possible to add new products to the shop or edit/remove the existing ones.
 >[Link tot the project repository](https://github.com/alexandrumc/java-online-shop)
@@ -28,18 +28,6 @@ layout: default
   - **2048 game**
 >2048-game implementation (written in C) with all the basic functionalities plus an automove function which chooses and makes for your the best move that can be done. [Link to the project repository](https://github.com/alexandrumc/2048-game)
 
-## [](#header-2)Resources
-  - **Books**
-    - **_Introduction to Algorithms_**, Authors: Thomas H. Cormen, Charles E. Leiserson, Ronald L. Rivest, Clifford Stein
-    - **_Computer Networks_**, book by Andrew S. Tanenbaum
-    - **_The Art of Exploitation_**, book by Jon Erickson
-    - **_Introduction to Assembly Language Programming: For Pentium and RISC Processors_**, by Sivarama P. Dandamudi
-  - **Sites**
-    - **[Coursera](https://www.coursera.org/)**
-    - **[GeeksforGeeks](http://www.geeksforgeeks.org/)**
-    - **[StackOverflow](http://stackoverflow.com/)**
-    - **[HackerRank](https://www.hackerrank.com/)**
-    - **[LeetCode](https://leetcode.com/)**
 
 
 ## [](#header-2)Communities
