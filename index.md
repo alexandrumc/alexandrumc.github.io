@@ -2,7 +2,7 @@
 layout: default
 ---
 
-![](https://i.imgur.com/AQBSyjo.png)
+![](https://i.imgur.com/AQBSyjo.png =270x270)
 
 ## [](#header-2)Education
 
