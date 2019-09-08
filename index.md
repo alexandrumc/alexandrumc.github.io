@@ -4,13 +4,8 @@ layout: default
 
 <img src="https://i.imgur.com/AQBSyjo.png" width="270" height="270"/>
 
-## [](#header-2)Education
-
-- **October 2019 - present**
-  - **Master’s degree in Parallel and Distributed Systems**, _Faculty of Automatic Control and Computer Science_, _University POLITEHNICA of Bucharest_, Romania.
-
-- **October 2015 - July 2019**
-  - **Bachelor’s degree in Computer Engineering**, _Faculty of Automatic Control and Computer Science_, _University POLITEHNICA of Bucharest_, Romania, Final Thesis grade 9.75 out of 10.
+##  [](#header-2)Research Interests
+*   Operating Systems, Compilers, Programming Languages
 
 ## [](#header-2) Conferences and Publications
   - **Paper published at CAV 2019, _"Communication-Closed Asynchronous Protocols"_.**
@@ -18,7 +13,6 @@ layout: default
 
   - **Talk at DConf 2019 London, _"D for a @safer Linux Kernel_".**
     - I gave my very first talk at DConf 2019. The presentation was mainly based on the work that I was doing for my bachelor’s thesis, where I used the D programming language to strengthen the security of Linux kernel modules. The talk can be found [here](https://dconf.org/2019/talks/militaru.html).
-
 
 ## [](#header-2)Experience
   - **Compiler Developer Intern, _NXP Semiconductors_, Bucharest, Romania.**
@@ -38,14 +32,17 @@ layout: default
     - Teaching lab sessions and preparing lab materials.
 
   - **QA Automation Intern, _ING Romania_.**
+    - July 2017 - October 2017
     - Worked with Spring Framework, Maven, Selenium WebDriver and Docker.
     - In the beginning, I had to test their internet banking solution using Cucumber tests. Then, I automated this whole process by creating a Java application that was able to compare screenshots taken by itself before and after completing a given action.
     - This process is currently used in the organization for testing different functionalities.
 
-## [](#header-2)Communities
-  - November 2016 - Preset
-    - **Systems Group**, _University POLITEHNICA of Bucharest_.
+## [](#header-2)Education
+  - **October 2019 - present**
+    - **Master’s degree in Parallel and Distributed Systems**, _Faculty of Automatic Control and Computer Science_, _University POLITEHNICA of Bucharest_, Romania.
 
+  - **October 2015 - July 2019**
+    - **Bachelor’s degree in Computer Engineering**, _Faculty of Automatic Control and Computer Science_, _University POLITEHNICA of Bucharest_, Romania, Final Thesis grade 9.75 out of 10.
 
 ##  [](#header-2)Programming skills
   - _Confident_
@@ -55,13 +52,20 @@ layout: default
   - _Medium_
     - **D, Haskell**
 
-##   [](#header-2)Languages
-  - Romanian (Native)
-  - English  (Advanced)
-  - French   (Intermediate)
 
-##  [](#header-2)Interests
-*   **Operating Systems**, **Compilers**, **Programming Languages**, **Linux Kernel**
+## [](#header-2)Communities
+  - November 2016 - Present
+    - **Systems Group**, _University POLITEHNICA of Bucharest_.
+
+
+
+
+##   [](#header-2)Languages
+  - **Romanian** (Native)
+  - **English**  (Advanced)
+  - **French**   (Intermediate)
+
+
 
 ##  [](#header-2)Hobbies
 *   I like very much to travel. My favorite city so far is Paris.
