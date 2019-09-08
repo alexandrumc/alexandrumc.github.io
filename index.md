@@ -12,40 +12,58 @@ layout: default
 - **October 2015 - July 2019**
   - **Bachelor’s degree in Computer Engineering**, _Faculty of Automatic Control and Computer Science_, _University POLITEHNICA of Bucharest_, Romania, Final Thesis grade 9.75 out of 10.
 
+## [](#header-2) Conferences and Publications
+  - **Paper published at CAV 2019, _"Communication-Closed Asynchronous Protocols"_.**
+    - I am the co-author of a paper that was accepted at the International Conference on Computer-Aided Verification (CAV) 2019. In this paper, we proposed a method that reduces the verification of asynchronous fault-tolerant protocols to the verification of round-based synchronous ones. The paper can be found [here](https://link.springer.com/chapter/10.1007/978-3-030-25543-5_20).
+
+  - **Talk at DConf 2019 London, _"D for a @safer Linux Kernel_".**
+    - I gave my very first talk at DConf 2019. The presentation was mainly based on the work that I was doing for my bachelor’s thesis, where I used the D programming language to strengthen the security of Linux kernel modules. The talk can be found [here](https://dconf.org/2019/talks/militaru.html).
+
+
 ## [](#header-2)Experience
-  - **Online shop**
-> I implemented a simple online shop in Java using some design patterns. The customers have all the functions that a real online shop provides, plus the option to get a suggestion about a product that they might like. It is possible to add new products to the shop or edit/remove the existing ones.
->[Link tot the project repository](https://github.com/alexandrumc/java-online-shop)
-  - **Image Detection**
->Using Matlab, I developed a program that could learn from a series of input photos to decide whether a new given image has the same pattern or not. I used RGB and HSV histograms.
->[Link to the project repository](https://github.com/alexandrumc/Image-Detection)
-  - **Spanning-Tree-Protocol**
->A simplified version of Spanning Tree Protocol implemented in C. For a given number of switches identified by their MAC addresses and a set of rules, the program finds the rood-bridge switch and the root-ports, designated-ports and blocked-ports for all the other switches. After that, the program responds to some commands, like showing the minimum path between two switches or regenerating the STP if a switch is removed.
->[Link to the project repository](https://github.com/alexandrumc/Spanning-Tree-Protocol)
-  - **Google Page Ranking**
->I implemented the simplified version of the Google Page Ranking algorithm using Matlab. The web pages and the links between them were thought as a graph. 
->[Link to the project repository](https://github.com/alexandrumc/page-ranking)
-  - **2048 game**
->2048-game implementation (written in C) with all the basic functionalities plus an automove function which chooses and makes for your the best move that can be done. [Link to the project repository](https://github.com/alexandrumc/2048-game)
+  - **Compiler Developer Intern, _NXP Semiconductors_, Bucharest, Romania.**
+    - July 2019 - Present
+    - Developing both high-level and low-level optimization techniques.
+    - Currently implementing a software pipelining technique to optimize loops.
 
+  - **Research Intern, _French Institute for Research in Computer Science and Automation (INRIA)_, École normale supérieur, Paris, France.**
+    - June 2018 - September 2018
+    - Implemented a code translation tool (basically, an extended parser) that, given a communication-closed asynchronous protocol, soundly computes its round-based synchronous counterpart. (Python)
+    - Got involved in the whole research process: from reading useful papers and understanding complex algorithms to conceiving advanced theoretical models and implementing them.
+    - The project repository and documentation can be found [here](https://github.com/alexandrumc/async-to-sync-translation).
 
+  - **Undergraduate Teaching Assistant, _Introduction to Operating Systems_, Faculty of Automatic Control and Computer Science.**
+    - October 2017 - Present
+    - Linux system fundamentals course.
+    - Teaching lab sessions and preparing lab materials.
+
+  - **QA Automation Intern, _ING Romania_.**
+    - Worked with Spring Framework, Maven, Selenium WebDriver and Docker.
+    - In the beginning, I had to test their internet banking solution using Cucumber tests. Then, I automated this whole process by creating a Java application that was able to compare screenshots taken by itself before and after completing a given action.
+    - This process is currently used in the organization for testing different functionalities.
 
 ## [](#header-2)Communities
   - November 2016 - Preset
     - **Systems Group**, _University POLITEHNICA of Bucharest_.
 
 
-##  [](#header-2)Computer skills
+##  [](#header-2)Programming skills
   - _Confident_
-    - **C**, **Java**
+    - **C**, **Java**, **Linux**, **Git**
   - _Experienced_
-    - **Linux shell**, **Bash**
+    - **Python**, **Bash**, **Docker**, **Makefile**
   - _Medium_
-    - **Matlab**
+    - **D, Haskell**
+
+##   [](#header-2)Languages
+  - Romanian (Native)
+  - English  (Advanced)
+  - French   (Intermediate)
 
 ##  [](#header-2)Interests
-*   Open-Source, Security, Operating Systems, Linux, Data Structures, ALgorithms
-*   Art, Culture
+*   **Operating Systems**, **Compilers**, **Programming Languages**, **Linux Kernel**
 
-##  [](#header-2)Extra
-*   I write book and movie reviews for a cultural website. [Link](http://filme-carti.ro/echipa/alexandru/)
+##  [](#header-2)Hobbies
+*   I like very much to travel. My favorite city so far is Paris.
+*   I have a great passion for literature, cinema, and painting. One of my favorite painters is Caspar David Friedrich, while my favorite writer is Philip Roth. I really enjoy the French New Wave movies.
+*   Some years ago I wrote reviews of books and movies for a cultural website. You can found them [here]((https://filme-carti.ro/author/alexandru/)). (they are written in Romanian)
