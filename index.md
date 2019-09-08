@@ -2,28 +2,16 @@
 layout: default
 ---
 
-![](http://i.imgur.com/WBHkCLy.jpg)
-## [](#header-2) Info 
-  - Nickname: **_Mili_**
-
+![](https://imgur.com/a/Lv2lVte)
 
 ## [](#header-2)Education
 
-- **October 2015 - Present**
-  - **Bachelor’s degree in Computer Science**, _2nd year_, _Faculty of Automatic Control and Computer Science_, Bucharest, Romania.
+- **Starting October 2019**
+  - **Master’s degree in Parallel and Distributed Systems**, _Faculty of Automatic Control and Computer Science_, _University POLITEHNICA of Bucharest_, Romania.
+  - Expected graduation date: June 2021 
 
-- **Relevant courses:**
-  - Introduction to Operating Systems (Linux)
-  - Data Structures (C)
-  - Object Oriented Programming (Java)
-  - Assembly Language (x86)
-
-- **Expected graduation date: June 2019**
-
-- **September 2011 - June 2015**
-  - **High School Diploma**, _National High School "George Cosbuc"_, Motru, Romania.
-- **2011 - June 2015**
-  - GPA - 9.65 / 10
+- **October 2015 - July 2019**
+  - **Bachelor’s degree in Computer Engineering**, _Faculty of Automatic Control and Computer Science_, _University POLITEHNICA of Bucharest_, Romania, Final Thesis grade 9.75 out of 10.
 
 ## [](#header-2)Experience and Projects
   - **Online shop**
