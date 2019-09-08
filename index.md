@@ -4,6 +4,9 @@ layout: default
 
 <img src="https://i.imgur.com/AQBSyjo.png" width="270" height="270"/>
 
+##  [](#header-2)Contact
+* Email: alexandru.cmilitaru@gmail.com
+
 ##  [](#header-2)Research Interests
 *   Operating Systems, Compilers, Programming Languages
 
