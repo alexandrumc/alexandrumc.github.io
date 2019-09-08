@@ -2,13 +2,12 @@
 layout: default
 ---
 
-![](https://imgur.com/a/Lv2lVte)
+![](https://i.imgur.com/AQBSyjo.png)
 
 ## [](#header-2)Education
 
-- **Starting October 2019**
+- **October 2019 - present**
   - **Master’s degree in Parallel and Distributed Systems**, _Faculty of Automatic Control and Computer Science_, _University POLITEHNICA of Bucharest_, Romania.
-  - Expected graduation date: June 2021 
 
 - **October 2015 - July 2019**
   - **Bachelor’s degree in Computer Engineering**, _Faculty of Automatic Control and Computer Science_, _University POLITEHNICA of Bucharest_, Romania, Final Thesis grade 9.75 out of 10.
