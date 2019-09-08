@@ -1,9 +1,8 @@
 title: Alexandru Militaru
-description: |
-             First year graduate CS student.
-             Passionate about operating systems and compilers. 
-             Interested in research and innovation.
-             Email: alexandru.cmilitaru@gmail.com
+description: "First year graduate CS student.
+             Passionate about operating systems and compilers.
+             Interested in research and innovation."
+email: alexandru.cmilitaru@gmail.com
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-minimal
