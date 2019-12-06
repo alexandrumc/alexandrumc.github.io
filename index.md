@@ -11,6 +11,10 @@ layout: default
 *   Operating Systems, Compilers, Programming Languages
 
 ## [](#header-2) Conferences and Publications
+  - **Programming Languages Mentoring Workshop, _"SPLASH Conference"_.**
+    - I have been awarded a travel grant that fully supported my attendance to the workshop and I participated in mentoring sessions on how to prepare for and thrive in graduate school and in a
+research career, focusing both on cutting-edge research topics and practical advice.
+
   - **Paper published at CAV 2019, _"Communication-Closed Asynchronous Protocols"_.**
     - I am the co-author of a paper that was accepted at the International Conference on Computer-Aided Verification (CAV) 2019. In this paper, we proposed a method that reduces the verification of asynchronous fault-tolerant protocols to the verification of round-based synchronous ones. The paper can be found [here](https://link.springer.com/chapter/10.1007/978-3-030-25543-5_20).
 
@@ -18,8 +22,12 @@ layout: default
     - I gave my very first talk at DConf 2019. The presentation was mainly based on the work that I was doing for my bachelor’s thesis, where I used the D programming language to strengthen the security of Linux kernel modules. The talk can be found [here](https://dconf.org/2019/talks/militaru.html).
 
 ## [](#header-2)Experience
+  - **Research Scholarship, _The D Language Foundation_, Bucharest, Romania.**
+    - November 2019 - Present
+    - Working on various aspects of the D Programming Language as part of my MSc thesis.
+
   - **Compiler Developer Intern, _NXP Semiconductors_, Bucharest, Romania.**
-    - July 2019 - Present
+    - July 2019 - October 2019
     - Developing both high-level and low-level optimization techniques.
     - Currently implementing a software pipelining technique to optimize loops.
 
